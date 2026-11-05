@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking CAP Architecture Platform",
+  "description": "CAP-based Smart Parking Management Platform demonstrating multiprocessor architectures, 5-stage instruction pipelining, memory hierarchy & cache coherence, and parallel processing benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
